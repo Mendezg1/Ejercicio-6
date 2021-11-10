@@ -1,4 +1,4 @@
-public class Tablet extends Device {
+public class Tablet implements Device {
 
 	@Override
 	public void takePic() {

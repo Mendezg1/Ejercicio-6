@@ -1,16 +1,5 @@
-public class Desktop extends Device {
+public class Desktop implements Device {
 
-	@Override
-	public void browseInInternet(String url) {
-		// TODO Auto-generated method stub
-
-	}
-
-	@Override
-	public void playVideo(String fileName) {
-		// TODO Auto-generated method stub
-
-	}
 
 	public void ejecutarvideojuego(String nombre) {
 		// TODO Auto-generated method stub

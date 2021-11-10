@@ -1,9 +1,4 @@
-/**
- * 
- */
-
-
-public class TelefonoFijo extends Device {
+public class TelefonoFijo implements Device {
 
 	@Override
 	public void makePhoneCall(int phoneNumber) {

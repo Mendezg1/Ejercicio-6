@@ -1,9 +1,4 @@
 import sun.reflect.generics.reflectiveObjects.NotImplementedException;
-
-/**
- * @author moises.alonso
- *
- */
 public class SmartTV extends Device {
 
 	@Override

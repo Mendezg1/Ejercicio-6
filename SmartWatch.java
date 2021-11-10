@@ -1,4 +1,4 @@
-public class SmartWatch extends Device {
+public class SmartWatch implements Device {
 
 	@Override
 	public void makePhoneCall(int phoneNumber) {
