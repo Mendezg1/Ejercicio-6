@@ -65,15 +65,15 @@ public class CamaraFotografica implements Device, Portable, Camara {
 	}
 
 	public String fotografiar(String s){
-		return "La cámara fotografió a: " + s+ "de marca " +  marca +" (marcador AR: " + marcadorAR + ")";
+		return "La cámara fotografió a: " + s+ " con la camara de marca " +  marca +" (marcador AR: " + marcadorAR + ")";
 	}
 
 	public String mover(String s){
-		return "Se movió la cámara a: "+s + "de marca " +  marca +" (marcador AR: " + marcadorAR + ")";
+		return "Se movió la cámara a: "+s + " con la camara de marca " +  marca +" (marcador AR: " + marcadorAR + ")";
 	}
 
 	public String reproducir(String s){
-	return "Se reprodujo el video: "+s+ "de marca " +  marca +" (marcador AR: " + marcadorAR + ")";
+	return "Se reprodujo el video: "+s+ "con la camara de marca " +  marca +" (marcador AR: " + marcadorAR + ")";
 	}
 
 	public String toString(){
