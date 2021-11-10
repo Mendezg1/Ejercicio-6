@@ -1,8 +1,3 @@
-/**
- * 
- */
-package org.arapp.model;
-
 import sun.reflect.generics.reflectiveObjects.NotImplementedException;
 
 /**
