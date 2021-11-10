@@ -14,7 +14,7 @@ public class TelefonoCelular implements Device, Llamada, Portable {
 		serie = s;
 		mar = marcadorAR;
 		f = fecha;
-		tipo = "Teléfono Celular";
+		tipo = "Telefono Celular";
 	}
 
 	public String[] acciones(){
